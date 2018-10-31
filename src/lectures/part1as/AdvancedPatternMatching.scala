@@ -1,6 +1,6 @@
 package lectures.part1as
 
-object AdvancedPatterMatching extends App{
+object AdvancedPatternMatching extends App{
 
   val numbers= List(1)
   val description= numbers match {
